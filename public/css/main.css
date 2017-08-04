@@ -1,0 +1,18 @@
+body {visibility: hidden;}
+.msg {
+    position: absolute;
+    width: 100%;
+    z-index: 99;
+    margin-top: -8px;
+}
+
+.msg a {
+    background-color: #01a501;
+    color: #fff;
+    padding: 10px 50px;
+    border-radius: 5px;
+}
+
+#main {
+    margin-top: 50px;
+}
